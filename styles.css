@@ -1,4 +1,10 @@
 /*  your css code here. If applicable */
+html{
+	width: 100%;
+}
+body{
+	width:'1100px';
+}
 .sidecol{
     width: 200px;
 }
